@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the official repository for **DUSK** (Floria) — a high-performance, visually immersive digital sanctuary built with Next.js, Three.js WebGL, and custom procedural animations.
+
+> 📖 **Full Engineering & Mathematics Documentation**: See [ALGORITHMS.md](./ALGORITHMS.md) for an in-depth breakdown of the physics models, skeletal rigging, and rendering algorithms used across this site.
 
 ## Getting Started
 

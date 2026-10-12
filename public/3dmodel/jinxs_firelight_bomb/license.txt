@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jinx's Firelight bomb
+* source:	https://sketchfab.com/3d-models/jinxs-firelight-bomb-b4c3a2fb87d6479fb4945663d70b263f
+* author:	PHuttoncg (https://sketchfab.com/rainbowbunny)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jinx's Firelight bomb" (https://sketchfab.com/3d-models/jinxs-firelight-bomb-b4c3a2fb87d6479fb4945663d70b263f) by PHuttoncg (https://sketchfab.com/rainbowbunny) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
